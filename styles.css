@@ -189,4 +189,12 @@
   height: 20px;
 }
 
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
  
