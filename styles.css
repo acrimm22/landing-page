@@ -8,13 +8,15 @@
   display: flex;
   align-content: center;
   justify-content: space-between;
+  padding-bottom: 40px;
 }
 
 .header-logo {
   font-size: 24px;
   color: #F9FAF8;
-  margin-left: 120px;
+  margin-left: 50px;
   margin-top: 18px;
+  margin-bottom: 18px;
   font-weight: bold;
 }
 
@@ -32,5 +34,37 @@
 }
 
 .header-link-three {
-  margin-right: 120px;
+  margin-right: 50px;
 }
+
+.hero {
+  background: #1F2937;
+  display: flex;
+}
+
+.hero-left {
+  margin-left: 50px;
+}
+
+.main-text {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;
+}
+
+.secondary-text {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.hero-button {
+  background-color: #3882f6;
+  color: #F9FAF8;
+  border: none;
+  width: 65px;
+  height: 22px;
+  border-radius: 4px;
+  font-size: 10px;
+}
+
+ 
