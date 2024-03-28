@@ -144,7 +144,49 @@
   color: #1F2937;
   display: flex;
   justify-content: end;
+}
 
+.call-to-action {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.blue-section {
+  background-color: #3882f6;
+  width: 500px;
+  height: 75px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.action-info {
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.bold-title {
+  font-weight: bold;
+}
+
+.under-title {
+  font-size: 10px;
+}
+
+.action-button {
+  color: white;
+  background-color: #3882f6;
+  border: 1px solid white;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 12px;
+  width: 70px;
+  height: 20px;
 }
 
  
